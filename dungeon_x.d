@@ -8,5 +8,5 @@ void main() {
     writeln("A black backgrounded computer beeps revealing green text instructing people.");
     writeln("A lifeguard reading it runs to the shower for an allegedly drowned; a sumo wrestler takes the place proclaiming to wait until they have done finishing the section.");
     writeln("Someone says this is how we do it; randomly some other exclaims oh my goodness that thing is so cute; a third says **** YOU DUDE, **** YOU; finally, chill to the rigueur, killin' it, feelin' it, in the gang, on an urge. ");
-    writeln("The computer's hardware starts failing due to water damage.");
+    writeln("The computer's hardware starts failing due to water damage, stating you don't have to implement the program, you do have to implement the program.");
 }
