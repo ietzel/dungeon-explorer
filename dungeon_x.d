@@ -10,5 +10,5 @@ void main() {
     writeln("Someone says this is how we do it; randomly some other exclaims oh my goodness that thing is so cute; a third says **** YOU DUDE, **** YOU; An anonymous one says: chill to the rigueur, killin' it, feelin' it, in the gang, on an urge; Next watch it here sweetcake. Last... that's the sugar baby.");
     writeln("The computer's hardware starts failing due to water damage, stating you don't have to implement the program, you do have to implement the program.");
     writeln("A portal opens to a city, in which humans in hydraulically-powered mechas thunder forth, speaking of a recent settled war treaty.");
-    writeln("One of them says do you really think you can quit this game think again, showing streams of information to annihilate their freewill.")
+    writeln("One of them says do you really think you can quit this game think again, showing streams of information to annihilate their injured freewill.")
 }
