@@ -1,1 +1,1 @@
-Many thanks to Larry, Liberty, Kian, Jevin, Cody, Roland, Thomas, Henry, Gharret, Tyson, Greg, Maria, Ian, Don, James, Andrew, and the many others (Hashtag Gaming Arena, Dragon's Concord) who have inspired this project!
+Many thanks to Larry, Liberty, Kian, Jevin, Cody, Roland, Thomas, Henry, Gharret, Tyson, Greg, Maria, Proctor, Don, James, Andrew, and the many others (Hashtag Gaming Arena, Dragon's Concord) who have inspired this project!
