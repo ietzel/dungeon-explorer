@@ -8,4 +8,4 @@
 (format t "The computer's hardware starts failing due to water damage, stating you don't have to implement the program, you do have to implement the program.")
 (format t "A portal opens to a city, in which humans in hydraulically-powered mechas thunder forth, speaking of a recent settled war treaty.")
 (format t "One of them says do you really think you can quit this game think again, showing streams of information to annihilate their injured freewill.")
-(format t "Some coincidentally young supposedly low dark triad people are led to a trick by their opposite prosing was it just tickles that risibled your cherubic fellowship.")
+(format t "Some coincidentally young supposedly low dark tetrad people are led to a trick by their opposite prosing was it just tickles that risibled your cherubic fellowship.")
